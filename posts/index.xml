@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on CNCF Paris</title>
-    <link>http://example.org/posts/</link>
+    <link>http://wwwcncfparis.github.io/posts/</link>
     <description>Recent content in Posts on CNCF Paris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Dec 2019 23:57:23 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://wwwcncfparis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jobteaser Development Environments &amp; Monitoring Cloud Native Apps</title>
-      <link>http://example.org/posts/jobteaser-development-environments-monitoring-cloud-native-apps/</link>
+      <link>http://wwwcncfparis.github.io/posts/jobteaser-development-environments-monitoring-cloud-native-apps/</link>
       <pubDate>Tue, 03 Dec 2019 23:57:23 +0100</pubDate>
       
-      <guid>http://example.org/posts/jobteaser-development-environments-monitoring-cloud-native-apps/</guid>
+      <guid>http://wwwcncfparis.github.io/posts/jobteaser-development-environments-monitoring-cloud-native-apps/</guid>
       <description>Hi folks!
 Our next event will be hosted by Jobteaser. Warm thanks to them :)
 JobTeaser is a French company that provides recruitment solutions to companies for the recruitment of young talent and a free career center software to higher education institutions in Europe.
