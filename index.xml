@@ -6,10 +6,20 @@
     <description>Recent content on CNCF Paris</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Dec 2019 23:57:23 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 14:41:29 +0100</lastBuildDate>
     
 	<atom:link href="http://wwwcncfparis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://wwwcncfparis.github.io/about/</link>
+      <pubDate>Thu, 05 Dec 2019 14:41:29 +0100</pubDate>
+      
+      <guid>http://wwwcncfparis.github.io/about/</guid>
+      <description>Cloud Native Computing Paris est une association Loi 1901 visant à promouvoir les technologies Cloud Native. Le Cloud Native Computing permet de déployer des applications dans un environnement élastique et résilient.
+Les technologies utilisées permettent l&#39;orchestration de containers Linux dans un écosystème distribué. Ce groupe permet de partager nos expériences respectives autour de ces récentes solutions et concepts. Nous aborderons des sujets aussi divers que la virtualisation réseau, les meilleures pratiques de développement ainsi que toutes les solutions de &amp;ldquo;microservices&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>Jobteaser Development Environments &amp; Monitoring Cloud Native Apps</title>
